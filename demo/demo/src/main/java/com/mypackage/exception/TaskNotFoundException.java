@@ -1,4 +1,4 @@
-package com.mypackage.exception
+package main.java.com.mypackage.exception
 
 public class TaskNotFoundException extends RuntimeException {
 
